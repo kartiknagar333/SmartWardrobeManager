@@ -14,11 +14,10 @@
   Enables photo selection from library or camera, with error handling for missing hardware. 
 - **UIAlertController**  
   Provides confirmation dialogs for scheduling, deletion, and other actions.
-  
-## Download APK for Testing
-You can download the APK file for testing from the release below:
-- [Download v1.0 Testing APK]()
-<br>  
+
+# User Flow Diagram 
+<img width="919" alt="Screenshot 2025-04-27 at 6 19 47 AM" src="https://github.com/user-attachments/assets/a7ec8c79-c386-4b4f-94db-1ddada24870f" />
 
 ## Screenshots
-
+- **HomeScreen**  
+<img width="576" alt="Screenshot 2025-04-27 at 6 31 45 AM" src="https://github.com/user-attachments/assets/7d12d8d0-4c26-4829-b876-422dac8c668a" />
